@@ -14,7 +14,12 @@ This project showcases a clean and professional UI/UX design suitable for digita
 
 ## 📸 Screenshot
 
-![Bondi Screenshot](./screenshot.png) <!-- Add your actual screenshot if available -->
+![Bondi](./screenshot-1.png) <!-- Add your actual screenshot if available -->
+![Home](./screenshot-2.png) <!-- Add your actual screenshot if available -->
+![Services](./screenshot-3.png) <!-- Add your actual screenshot if available -->
+![Projects](./screenshot-4.png) <!-- Add your actual screenshot if available -->
+![About](./screenshot-5.png) <!-- Add your actual screenshot if available -->
+![Contact](./screenshot-6.png) <!-- Add your actual screenshot if available -->
 
 ---
 
